@@ -1,0 +1,4 @@
+мая 13, 2021 4:59:41 PM com.fixes.Main.Main registerReader
+INFO: Reader with name - FX9000, id - 1, location - Проходная has been registered(10.10.10.10:8800 timeout:5)
+мая 13, 2021 4:59:42 PM com.fixes.Main.Main registerItem
+INFO: Laptop with name - Lenovo, id - 1, location -  has been registered

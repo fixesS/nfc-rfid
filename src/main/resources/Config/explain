@@ -1,0 +1,9 @@
+reader id 0(sensor_id in db) = place.lobby
+reader id 1(sensor_id in db) = place.floor1
+....
+reader id {n}(sensor_id in db) = place.floor{n}
+
+tag id = item_id in db
+
+
+

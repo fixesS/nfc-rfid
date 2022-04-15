@@ -1,0 +1,32 @@
+мая 12, 2021 1:21:33 AM com.fixes.DB.DBSensors connection
+INFO: Connect successful! |nfc_sensors table|
+мая 12, 2021 1:02:55 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:08:54 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:13:09 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:23:44 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:23:49 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:36:47 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:37:50 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 12, 2021 10:38:37 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 13, 2021 10:53:02 AM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 13, 2021 11:05:23 AM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 13, 2021 11:10:59 AM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 13, 2021 11:43:28 AM com.fixes.DB.DBSensors add
+INFO: Sensor with sensor_id - 1 is in db
+мая 13, 2021 11:53:10 AM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 13, 2021 3:03:37 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
+мая 13, 2021 4:45:13 PM com.fixes.DB.DBSensors connection
+INFO: Connect successful!
